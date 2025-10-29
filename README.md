@@ -1,4 +1,4 @@
-##BMW Global Sales Performance Dashboard##
+## BMW Global Sales Performance Dashboard
 
 
 🧠 Overview
@@ -27,6 +27,7 @@ Visualizing BMW’s global sales trends to uncover key insights in revenue, prod
 🎯 Impact
 
 Enhanced data-driven decision making for BMW global strategy and provided baseline KPIs for yearly performance monitoring.
+
 
 ✦ Created as part of Dqlab Bootcamp projects
 
